@@ -1,0 +1,3 @@
+Username field → id="username"
+Password field → id="password"
+Login button → id="submit"
